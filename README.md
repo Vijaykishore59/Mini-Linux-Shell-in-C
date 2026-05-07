@@ -20,7 +20,6 @@ A beginner-friendly yet resume-worthy mini shell built in C for Linux systems. T
 - `execvp()` - replaces child process image with a command
 - `waitpid()` - waits for child process completion
 - `pipe()` - creates communication channel between two commands
-
 ## Project Structure
 
 ```
